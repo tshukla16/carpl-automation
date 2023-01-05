@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_New Notification_fa fa-close</name>
+   <tag></tag>
+   <elementGuidId>2d799e88-bfd8-43ac-9dd7-1372470a6c19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/nav/div/div/div/div[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1a2dc814-9c64-4ef6-967c-b7aedf03a3ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-close</value>
+      <webElementGuid>d6241dc8-9164-4bab-b10c-528602ce5c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/header[@class=&quot;main-header shadow&quot;]/nav[@class=&quot;navbar navbar-static-top&quot;]/div[1]/div[@class=&quot;new-notification card-profile shadow dashboard_card  card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-lg-4 col-lg-1&quot;]/i[@class=&quot;fa fa-close&quot;]</value>
+      <webElementGuid>d91012e4-5c24-4b10-9aaa-dde07db1beb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/nav/div/div/div/div[2]/i</value>
+      <webElementGuid>cb826832-f87a-4753-8741-f0890f55975a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>b93cab61-0b75-435d-bc41-1aa8281ef014</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

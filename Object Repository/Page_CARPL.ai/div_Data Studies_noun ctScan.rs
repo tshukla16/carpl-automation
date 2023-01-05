@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Studies_noun ctScan</name>
+   <tag></tag>
+   <elementGuidId>88e7e94a-3204-4627-a412-cb86f3f6ada5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.noun.ctScan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div[2]/div/div/div/ul/li/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55a43dff-8728-4014-beea-4ef2a16ac640</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun ctScan</value>
+      <webElementGuid>9fc67174-0b4f-491c-96eb-840cd421fd42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun ctScan&quot;]</value>
+      <webElementGuid>58c3b08a-d929-4c49-94d5-2bd94754df1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>60bcd715-9913-4638-a89f-d3c4d1205144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun ctScan</value>
+      <webElementGuid>a17c0576-3529-40e3-99b9-57ea724c4fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun ctScan&quot;]</value>
+      <webElementGuid>3b67a938-24b8-4a97-8793-0e5aac8fe86c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e378257-fd81-4708-9b84-1fe5366255f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun ctScan</value>
+      <webElementGuid>01bf5cba-7a97-46eb-a2dd-e5c861a5e5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun ctScan&quot;]</value>
+      <webElementGuid>fffd890b-5890-43ef-8b44-3d0730fb1a56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div[2]/div/div/div/ul/li/div/div/div/div</value>
+      <webElementGuid>26558716-ec1f-467a-b3b7-b82c55992d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/div</value>
+      <webElementGuid>c83d0b86-f31a-4ae2-bbfd-237ed2cd0680</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

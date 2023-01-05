@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dataset Manager</name>
+   <tag></tag>
+   <elementGuidId>f9df1e2a-46cf-4483-a762-2d07957b21da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#configuration > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='configuration']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>88ca0c83-4ee3-4bb6-b192-6d0cf96542e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dataset Manager</value>
+      <webElementGuid>ac8c15c5-f5e5-4393-bd27-ebb1e51f0920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;configuration&quot;)/a[1]</value>
+      <webElementGuid>92d3b9c0-bc5c-4b8d-948a-902785a2c8cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fe3a675d-ba89-4768-b96b-f4867eb836ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dataset Manager</value>
+      <webElementGuid>515bd05f-3a9f-4529-af21-ab7c30450bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;configuration&quot;)/a[1]</value>
+      <webElementGuid>ff39f46d-d135-485b-adae-18a07170e5b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='configuration']/a</value>
+      <webElementGuid>65cbdb62-5dfd-41c0-b348-523f8ef4c851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WorkFlow'])[1]/following::a[1]</value>
+      <webElementGuid>a3efd719-7f06-436f-9082-32f5229abd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Algorithms'])[1]/following::a[2]</value>
+      <webElementGuid>a09401de-e493-4ebb-9c19-a6db3e5d699e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annotation'])[1]/preceding::a[1]</value>
+      <webElementGuid>0b6acd74-d0ab-40df-a455-a908ca5aae1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>7d2ad3c3-3862-41ec-b1c9-b8af34f919db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Dataset Manager' or . = ' Dataset Manager')]</value>
+      <webElementGuid>9b589f90-64fd-41ca-82ab-8f71487f6faf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_nodul, nodule, nodule1, cxr</name>
+   <tag></tag>
+   <elementGuidId>98958855-2357-48fb-b5f5-0d926ce60152</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cc389650-01e1-4db1-a1bc-60f950c94963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dataset_common_valid</value>
+      <webElementGuid>543ed6ad-fd8e-4327-baa0-36f9445bb94b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nodul, nodule, nodule1, cxr</value>
+      <webElementGuid>23d7bd17-d05f-494b-b7b6-92028582c9ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;allprojectlist&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-25&quot;]/div[@class=&quot;projectitem&quot;]/p[@class=&quot;dataset_common_valid&quot;]</value>
+      <webElementGuid>782b646f-4285-4e23-ac12-1bb1b466d093</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/p[2]</value>
+      <webElementGuid>0ff5b3c3-5862-48d0-82d6-95cb437854f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Findings'])[1]/following::p[1]</value>
+      <webElementGuid>63310007-f454-40ad-8f35-065fa65ccdb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='compr_predeployment_desc_1'])[1]/following::p[1]</value>
+      <webElementGuid>026e72c9-0440-41d1-a003-61d1faefc28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inference Status'])[1]/preceding::p[1]</value>
+      <webElementGuid>e1611956-197d-4a4e-bb7a-64dbcee5a172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ground Truth Status'])[1]/preceding::p[2]</value>
+      <webElementGuid>c1af1695-060c-475a-a5d8-ab4193582f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='nodul, nodule, nodule1, cxr']/parent::*</value>
+      <webElementGuid>2ba1c86b-96e3-4678-98b9-e69bfcbfd43c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>101eaeb0-92b8-4db7-82f3-3d5daaabe5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'nodul, nodule, nodule1, cxr' or . = 'nodul, nodule, nodule1, cxr')]</value>
+      <webElementGuid>ceddc854-ca01-4224-80b8-12762b0b10c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

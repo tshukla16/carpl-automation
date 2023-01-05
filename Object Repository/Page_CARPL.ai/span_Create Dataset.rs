@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create Dataset</name>
+   <tag></tag>
+   <elementGuidId>5f9c0450-fb7a-4b6b-8e38-45fa0abd23d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.mr-1.shadow > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[3]/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>89e529ab-45ac-4474-aad5-a1d949643bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Dataset </value>
+      <webElementGuid>f533137e-81f1-4ca0-9dde-52432bd5bc6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-8&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]/span[1]</value>
+      <webElementGuid>1fc74f6b-3eb6-4de5-9635-e9511e8fc0b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>612f1a00-b2db-45d7-9a9a-f1a3271cc86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Dataset </value>
+      <webElementGuid>7dd74c04-eef3-4b51-a423-9652bfe2021d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-8&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]/span[1]</value>
+      <webElementGuid>ce54423e-fa0b-4c79-9c8e-1095e9f0adb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>443de0f4-9ce6-4b3e-95c4-ed456a6a437e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Dataset </value>
+      <webElementGuid>656abfc8-b60f-4013-80bd-3b9ce96c470f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-8&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]/span[1]</value>
+      <webElementGuid>ad0b3241-2d47-4a3c-942b-715ea62c94d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ada3172-033f-4db4-9a71-67cbf696ae91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Dataset </value>
+      <webElementGuid>6b1968fc-f66e-4013-84d4-6d87f2663cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-8&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]/span[1]</value>
+      <webElementGuid>3d8b97fa-6949-47ee-850f-d8da12d99e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e7795fe9-d5a5-4863-a4a5-7ad64e0fedd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Dataset </value>
+      <webElementGuid>c0034a58-9b60-49f9-8933-72d6d211a6fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-8&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]/span[1]</value>
+      <webElementGuid>c8bc2fd7-f754-49f7-afae-415b5b8dcfed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[3]/div/button[2]/span</value>
+      <webElementGuid>8439f960-ca34-40dc-96e6-f734922f16a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Global Metadata Search'])[1]/following::span[1]</value>
+      <webElementGuid>1fd8395d-803b-4664-ae09-75673a46ebec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Dataset'])[1]/preceding::span[1]</value>
+      <webElementGuid>46ea0569-2dfd-45b6-8d8b-db42cd386433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Dataset'])[1]/preceding::span[1]</value>
+      <webElementGuid>28cdd22c-38d5-47df-a969-5313f02db8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Dataset']/parent::*</value>
+      <webElementGuid>db422bfc-7710-4504-9a0e-0d84c72aad3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>c1d24364-27dc-4356-a08a-b8c3ba1e6200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create Dataset ' or . = 'Create Dataset ')]</value>
+      <webElementGuid>069e2583-b99a-413a-b80b-a39dbd7db7ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create Template_three-dots</name>
+   <tag></tag>
+   <elementGuidId>d0512067-f255-4204-83ff-b1ab99173a64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/span/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.three-dots</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b147acef-28f4-47c1-8533-48781747bfa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>three-dots</value>
+      <webElementGuid>dd19e227-86cb-4c53-999f-9738b7719bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;allprojectlist&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-25&quot;]/div[@class=&quot;projectitem&quot;]/span[1]/div[@class=&quot;dropdown-container&quot;]/div[@class=&quot;three-dots&quot;]</value>
+      <webElementGuid>318f4b98-3ea7-4024-98c2-ee6f32922ab0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/span/div/div</value>
+      <webElementGuid>cbab4d45-4b3d-404c-945d-784d4d7deb4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>83b80d3c-27fc-4b88-9e1d-62d1a74fd669</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

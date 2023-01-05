@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Delete Workflow</name>
+   <tag></tag>
+   <elementGuidId>ba5c3fb8-563b-4ece-8df1-b1037d62f61d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown > a > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/span/div/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1c33c802-3a36-4168-a959-0636b88a96ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Workflow</value>
+      <webElementGuid>73fa9b65-8073-4504-a94d-791b64572cc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;allprojectlist&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-25&quot;]/div[@class=&quot;projectitem&quot;]/span[1]/div[@class=&quot;dropdown-container&quot;]/div[@class=&quot;dropdown&quot;]/a[1]/div[1]</value>
+      <webElementGuid>2dc37973-8783-4fbe-918c-53b2254b39d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b0ef3c9-d420-40d6-89df-aad9e7ff0ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Workflow</value>
+      <webElementGuid>f4863fba-3fe8-4580-af2a-b8ebb991d33d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;allprojectlist&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-25&quot;]/div[@class=&quot;projectitem&quot;]/span[1]/div[@class=&quot;dropdown-container&quot;]/div[@class=&quot;dropdown&quot;]/a[1]/div[1]</value>
+      <webElementGuid>071bfda2-4142-451e-a85d-fe4055959054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6bece5b8-3ecf-40b3-b39c-eacc9601482e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Workflow</value>
+      <webElementGuid>531ccd4e-9a32-4712-a55b-b6cc55add6f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;allprojectlist&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-25&quot;]/div[@class=&quot;projectitem&quot;]/span[1]/div[@class=&quot;dropdown-container&quot;]/div[@class=&quot;dropdown&quot;]/a[1]/div[1]</value>
+      <webElementGuid>0bd7f6f0-a49f-4add-a0cc-9ad811761b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a64ee5eb-1a76-4471-8abc-cec6d429e94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Workflow</value>
+      <webElementGuid>36a529f1-1d1b-4a6c-92e7-76a522d26250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;main-content-inner&quot;]/div[@class=&quot;allprojectlist&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-25&quot;]/div[@class=&quot;projectitem&quot;]/span[1]/div[@class=&quot;dropdown-container&quot;]/div[@class=&quot;dropdown&quot;]/a[1]/div[1]</value>
+      <webElementGuid>2640925a-f5c5-4590-8a11-0f49a05655ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/span/div/div[2]/a/div</value>
+      <webElementGuid>11580924-cef0-4aa9-bd1b-2b4f428564da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Workflow'])[1]/following::div[8]</value>
+      <webElementGuid>36787b98-698c-4c16-ac0f-c119d720af2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Workflow'])[1]/preceding::div[1]</value>
+      <webElementGuid>eda4dfd5-4589-4a90-bdbb-e40eabdbd468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workflow Name'])[1]/preceding::div[2]</value>
+      <webElementGuid>569a0ae8-6886-4545-a0a3-dd16925d9abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete Workflow']/parent::*</value>
+      <webElementGuid>15511125-6411-422e-8db5-7e8fd2e012f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>5bcf29a9-c440-4f7f-91aa-e2f863caf0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Delete Workflow' or . = 'Delete Workflow')]</value>
+      <webElementGuid>86224c76-5b7e-4084-8423-79715f32fece</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

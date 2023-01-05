@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dataset ID61</name>
+   <tag></tag>
+   <elementGuidId>a884f39b-a1db-43e6-809c-e610d076e49e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b1133ed-09a4-4656-9cb4-a607059fbac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> fl </value>
+      <webElementGuid>c131101c-a2c5-4c1a-a6ad-66e43ab245ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dataset ID61</value>
+      <webElementGuid>ab3a499f-4f17-4046-8eb1-dc2a3f98b3e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;allprojectlist&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-25&quot;]/div[@class=&quot;projectitem&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-7&quot;]/div[@class=&quot;namenew&quot;]/div[@class=&quot;fl&quot;]</value>
+      <webElementGuid>616b8ab4-fc64-4c90-903f-934a44e01d3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/div[3]/div/div/div</value>
+      <webElementGuid>7819ace3-6963-4511-bcb5-a11c72019397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Associated Projects'])[1]/following::div[5]</value>
+      <webElementGuid>75909260-88bc-4074-bbcf-7e9047fa178d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dataset Description'])[1]/following::div[9]</value>
+      <webElementGuid>311273f1-3660-4751-ab6c-2dc8254942c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modality'])[1]/preceding::div[1]</value>
+      <webElementGuid>d0a1972a-6d9a-48eb-bca6-6a8c09907887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]/div/div/div</value>
+      <webElementGuid>86a59efc-9c5a-4c5f-b764-3deb58246003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dataset ID61' or . = 'Dataset ID61')]</value>
+      <webElementGuid>e05123f8-eeaf-4b0e-87f9-a291238147d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

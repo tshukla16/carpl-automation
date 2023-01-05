@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>89350d57-a612-4bdb-8641-eb046031f5c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rw-widget-input.rw-widget-picker.rw-widget-container > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c5896615-52b1-4a92-9894-b12537b313c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;App&quot;]/div[2]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-8 template_builder&quot;]/div[@class=&quot;mt-3&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;rw-multiselect rw-widget&quot;]/div[@class=&quot;rw-widget-input rw-widget-picker rw-widget-container&quot;]/div[1]</value>
+      <webElementGuid>3fb5b58c-1cd6-44c5-ae92-6e1268903fce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>73f5b39e-15b6-46f2-8b80-ba6b08122297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROI Labels'])[1]/following::div[5]</value>
+      <webElementGuid>234077dd-27ad-4f56-9989-05088bb3e3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Builder'])[1]/preceding::div[1]</value>
+      <webElementGuid>5782928e-60b4-4973-9cbd-5bdb39235921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select / Drop an item from Form Elements'])[1]/preceding::div[3]</value>
+      <webElementGuid>31db969b-4ceb-419a-b5c9-92492cd4ad02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>ad0afebe-fbc8-4279-90e1-b5783a0b679d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

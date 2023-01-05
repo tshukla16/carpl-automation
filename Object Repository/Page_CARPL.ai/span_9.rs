@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_9</name>
+   <tag></tag>
+   <elementGuidId>ca1d8552-f52e-4f28-a25b-d7c9bb429438</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-tabs-3']/div/div/div/div[2]/div/div[2]/ul/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e47fcd0b-a73f-47a9-af68-74eaa6e7ed1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>25a62783-1a0f-4921-8e12-346d9ca1bc1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-tabs-3&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 mb-5 mb-xl-0 col-xl-5&quot;]/div[@class=&quot;annotation_card&quot;]/div[@class=&quot;pt-0 pt-md-0 card-body&quot;]/ul[1]/li[1]/a[1]/span[1]</value>
+      <webElementGuid>070e40a7-8c21-42a2-a7c6-dd18f59c1654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-tabs-3']/div/div/div/div[2]/div/div[2]/ul/li/a/span</value>
+      <webElementGuid>de11e771-f37a-40e0-9794-229b630061bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/ul/li/a/span</value>
+      <webElementGuid>2d6ba9f8-2204-4066-b850-c3a282f9481a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '9' or . = '9')]</value>
+      <webElementGuid>75e0c332-f6a0-4619-adfb-29f5c86d2841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

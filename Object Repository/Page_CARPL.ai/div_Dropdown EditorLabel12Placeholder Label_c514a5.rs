@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dropdown EditorLabel12Placeholder Label_c514a5</name>
+   <tag></tag>
+   <elementGuidId>7be25ff7-4e73-4cbc-ab87-467e7d18112d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.right-controlPanel.full.show</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e4057f7e-6d9d-4adf-a3a9-56384464fe21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right-controlPanel full show</value>
+      <webElementGuid>5eecb38b-8b8d-4e53-b679-2c5f5c215750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×Dropdown EditorLabel:12Placeholder LabelRequiredOptions:Add OptionCancelDone</value>
+      <webElementGuid>414e2c62-b1e8-4b8f-96ff-3f1fc9e53732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;App&quot;]/div[@class=&quot;right-controlPanel full show&quot;]</value>
+      <webElementGuid>000ffbb4-5e2c-46cd-aa59-bcbc62e4d4be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[3]</value>
+      <webElementGuid>f79246f7-cbe1-4280-ba3e-b782fe4709eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version: v3.carpl.testing.db.0.535'])[1]/following::div[9]</value>
+      <webElementGuid>1107a0ea-52d3-4f16-a6dd-af456093c1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]</value>
+      <webElementGuid>96b69931-59c9-4c7e-9250-4ae083d51b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '×Dropdown EditorLabel:12Placeholder LabelRequiredOptions:Add OptionCancelDone' or . = '×Dropdown EditorLabel:12Placeholder LabelRequiredOptions:Add OptionCancelDone')]</value>
+      <webElementGuid>97f8f43a-751c-471e-8014-2ed98d75f64d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

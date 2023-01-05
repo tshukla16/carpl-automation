@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Unassigned_carpl_checkbox</name>
+   <tag></tag>
+   <elementGuidId>cce4e081-80ed-424b-acb1-b1a78e830725</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.border-t-0.px-6.align-middle.border-l-0.border-r-0.text-xs.whitespace-nowrap.p-4.font-semibold > div > label.main_checkbox > span.carpl_checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/div[3]/div/table/thead/tr/th/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d2f95e0-267b-409a-84d8-3a84a7819491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carpl_checkbox</value>
+      <webElementGuid>379ca0f6-deb5-4c84-8d5e-6a86a3d34051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[1]/div[@class=&quot;algopage02 circlearea&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;datasettble col-md-12&quot;]/div[@class=&quot;table-responsive&quot;]/div[1]/table[@class=&quot;items-center w-full table table-hover border-collapse&quot;]/thead[1]/tr[1]/th[@class=&quot;border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 font-semibold&quot;]/div[1]/label[@class=&quot;main_checkbox&quot;]/span[@class=&quot;carpl_checkbox&quot;]</value>
+      <webElementGuid>e2596a72-a140-432d-a415-f2df18afe380</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/div[3]/div/table/thead/tr/th/div/label/span</value>
+      <webElementGuid>fc0c2cd8-46a1-4cf4-99af-e25efbe86cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/label/span</value>
+      <webElementGuid>28a5ae72-a59a-42a1-b559-765e06f14624</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

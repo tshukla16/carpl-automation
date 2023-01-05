@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Success_fa fa-eye</name>
+   <tag></tag>
+   <elementGuidId>7e95eed0-4e95-4f6a-831b-7f373c603558</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div[5]/div/div[2]/div[3]/div/table/tbody/tr/td[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>53a3a2e7-3492-4402-a49a-02146f2b707d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye</value>
+      <webElementGuid>78705a86-3d05-4a58-b033-6b05e47ed608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[1]/div[@class=&quot;algopage02 circlearea&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;right-controlPanel full show&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;datasettble col-md-12&quot;]/div[@class=&quot;table-responsive&quot;]/div[1]/table[@class=&quot;items-center w-full table table-hover border-collapse&quot;]/tbody[1]/tr[1]/td[@class=&quot;editDelTd&quot;]/i[@class=&quot;fa fa-eye&quot;]</value>
+      <webElementGuid>73009112-3510-40ec-a745-600b4f9fc434</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div[5]/div/div[2]/div[3]/div/table/tbody/tr/td[3]/i</value>
+      <webElementGuid>e534c3b1-60d9-40a4-a001-2e6aa4a100dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/i</value>
+      <webElementGuid>0342114d-fe34-4489-ad9d-1559aa05d992</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Upload Dataset_carpl_checkbox</name>
+   <tag></tag>
+   <elementGuidId>65fcbea3-d803-430d-b6f3-d52a52f4b521</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/div[3]/div/table/thead/tr/th/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.carpl_checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc2fa69a-f329-4c30-85bc-5e5263a49761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carpl_checkbox</value>
+      <webElementGuid>b7cf8384-b51e-464b-8226-1d543ecf0965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[1]/div[@class=&quot;algopage02 circlearea&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;datasettble col-md-12&quot;]/div[@class=&quot;table-responsive&quot;]/div[1]/table[@class=&quot;items-center w-full table table-hover border-collapse&quot;]/thead[1]/tr[1]/th[@class=&quot;border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4 font-semibold&quot;]/div[1]/label[@class=&quot;main_checkbox&quot;]/span[@class=&quot;carpl_checkbox&quot;]</value>
+      <webElementGuid>ddd23bac-27cd-4bf6-abfd-2368d96d45ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div[2]/div[3]/div/table/thead/tr/th/div/label/span</value>
+      <webElementGuid>0d9405e5-0dd7-437c-a3ec-b5fa35d18ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>52b85b8a-3263-4134-aab7-c748c8796dbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

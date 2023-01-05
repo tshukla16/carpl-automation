@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Owned 13</name>
+   <tag></tag>
+   <elementGuidId>2e41eac5-a0b4-48dc-a9c0-b3bdad0837d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pt-0.pt-md-0.card-body > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-tabs-3']/div/div/div/div/div/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ce8bca5a-45f5-4b07-b256-3ceffb6628bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/annotation_template</value>
+      <webElementGuid>42d2c870-fdcf-4079-b3fe-070b738320e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Owned 13</value>
+      <webElementGuid>327ef27b-709a-4e13-80f8-72ee8d9b7210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-tabs-3&quot;)/div[@class=&quot;panel-content&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 mb-5 mb-xl-0 col-xl-5&quot;]/div[@class=&quot;annotation_card&quot;]/div[@class=&quot;pt-0 pt-md-0 card-body&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>705f004e-5904-4bf8-8821-29378658881d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-tabs-3']/div/div/div/div/div/div[2]/ul/li/a</value>
+      <webElementGuid>44c05968-fce3-4600-8947-53ead159a65d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deployment'])[2]/following::a[1]</value>
+      <webElementGuid>1237df9b-0c49-49ee-a03b-6cb756961502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing and Monitoring'])[1]/following::a[1]</value>
+      <webElementGuid>9ff565c2-f288-4b6e-bbb3-53cd8df4d2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Owned']/parent::*</value>
+      <webElementGuid>d3f978c0-1d4b-4adf-ac6a-7a57c2544957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/annotation_template')]</value>
+      <webElementGuid>9aaff6c7-28b7-41b4-8576-5ed4936348f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>e79a823e-d7d6-49dc-83cf-d4ad049bbe2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/annotation_template' and (text() = 'Owned 13' or . = 'Owned 13')]</value>
+      <webElementGuid>de1b7caa-09a6-447a-be12-9c1eeffc94a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

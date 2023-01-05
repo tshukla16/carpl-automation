@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Paragraph_fa fa-edit mr-3 fa_template</name>
+   <tag></tag>
+   <elementGuidId>c96cb8de-374e-4ee7-8839-027ff923e6a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/div[3]/div[2]/div/div/span[5]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-edit.mr-3.fa_template</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1326d947-893c-4d13-a237-052487af82fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit mr-3 fa_template</value>
+      <webElementGuid>c26f179a-756d-4fa5-8abb-046f16d78a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;App&quot;]/div[2]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-8 template_builder&quot;]/div[@class=&quot;mt-3&quot;]/div[3]/div[@class=&quot;bg-template_default&quot;]/div[@class=&quot;list-group-item mb-1 bg-template_items preview_item&quot;]/div[1]/span[@class=&quot;float-right onHover&quot;]/i[@class=&quot;fa fa-edit mr-3 fa_template&quot;]</value>
+      <webElementGuid>232544fa-a7f2-4afa-979b-63bdc7e82e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e1e4b6c5-6684-4e6d-83c9-59a85d97a01d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit mr-3 fa_template</value>
+      <webElementGuid>4857296d-1207-434f-a58f-3f85c232cb67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;App&quot;]/div[2]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-8 template_builder&quot;]/div[@class=&quot;mt-3&quot;]/div[3]/div[@class=&quot;bg-template_default&quot;]/div[@class=&quot;list-group-item mb-1 bg-template_items preview_item&quot;]/div[1]/span[@class=&quot;float-right onHover&quot;]/i[@class=&quot;fa fa-edit mr-3 fa_template&quot;]</value>
+      <webElementGuid>aa8161d3-32b8-4a28-b7ff-c3cd9c5e229f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>eee71dce-da66-4b69-91fe-1ea811d222db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit mr-3 fa_template</value>
+      <webElementGuid>29078b38-fa7f-4d3b-a32b-66197578fd72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;App&quot;]/div[2]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-8 template_builder&quot;]/div[@class=&quot;mt-3&quot;]/div[3]/div[@class=&quot;bg-template_default&quot;]/div[@class=&quot;list-group-item mb-1 bg-template_items preview_item&quot;]/div[1]/span[@class=&quot;float-right onHover&quot;]/i[@class=&quot;fa fa-edit mr-3 fa_template&quot;]</value>
+      <webElementGuid>392cabd5-0024-42d8-8180-303e96bf318e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div/div[3]/div[2]/div/div/span[5]/i</value>
+      <webElementGuid>e7e1c827-e289-4f7d-9dc2-3ac88609dabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/i</value>
+      <webElementGuid>049be965-5866-4fa5-8b7f-90421c37237a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

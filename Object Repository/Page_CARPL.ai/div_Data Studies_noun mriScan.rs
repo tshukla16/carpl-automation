@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Studies_noun mriScan</name>
+   <tag></tag>
+   <elementGuidId>aebb3cea-fa13-4447-a5e3-e78c9cfb7e06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div[2]/div/div/div/ul/li/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83765525-70d0-45f3-88e0-f7153ab4fbcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun mriScan </value>
+      <webElementGuid>464bfbcf-c648-4230-9452-42519a5d08b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun mriScan&quot;]</value>
+      <webElementGuid>bce980d7-b0f7-4a80-9c8b-feaa023832a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83e4cf77-be9c-4c5f-bb31-c250f51ba65c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun mriScan </value>
+      <webElementGuid>58ddd808-3cc3-40f5-b802-ce8b375210df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun mriScan&quot;]</value>
+      <webElementGuid>95860f14-c77f-4b4e-ba49-18d66cdadc0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df133e19-a650-46ed-84dd-4053eb60fe46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun mriScan </value>
+      <webElementGuid>20623385-31ae-4b3d-96bb-67f2806d601c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun mriScan&quot;]</value>
+      <webElementGuid>b1cb3a97-8a9a-44b3-ae6c-7f5ac96a3756</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div[2]/div/div/div/ul/li/div/div/div[2]/div</value>
+      <webElementGuid>c0301f93-79c9-42a6-ae3d-8d46ff70233c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div[2]/div</value>
+      <webElementGuid>b86d9010-dc28-4c1c-9b2c-4c18a7172de5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Algorithms_fa fa-sitemap_1</name>
+   <tag></tag>
+   <elementGuidId>4d56fa9e-6c83-4b61-bea6-76a5c5c4fde4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-sitemap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='style-3']/section/ul/li[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5a29eefc-252d-468c-ac73-3da3b9f5567a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-sitemap</value>
+      <webElementGuid>3e958327-50bb-40a4-9b92-4944e3e93abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1696b6f3-a630-45fb-abb3-bc4c894929b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style-3&quot;)/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;active&quot;]/a[1]/i[@class=&quot;fa fa-sitemap&quot;]</value>
+      <webElementGuid>01c14fe1-8580-47eb-8262-424bfd13e10c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='style-3']/section/ul/li[3]/a/i</value>
+      <webElementGuid>66b31685-58b9-4e1f-a22c-160e98fc1527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/i</value>
+      <webElementGuid>094a8866-175d-4510-be5f-71e9c0edac34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

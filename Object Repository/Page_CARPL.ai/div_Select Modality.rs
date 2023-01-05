@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Modality</name>
+   <tag></tag>
+   <elementGuidId>486f902c-e64d-4092-a80f-91d7ec0fdd13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dataModel']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.select__value-container.css-1hwfws3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>670c60a5-f9ca-44b2-b8aa-6662ee32fe2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>a10848d5-40a4-4b09-bbe7-5629ddd37a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>45070284-d5de-4cce-8025-2f7a5f0334f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>bf6e6432-e01f-4453-be40-ab7e9de2ec7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d31a6c0-d5cd-4db8-a638-da88437af741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__placeholder css-1wa3eu0-placeholder</value>
+      <webElementGuid>d6ac9523-64ad-4183-aedf-5cf4dbd14125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>69d97656-94e2-4006-9680-b192bd8e7238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]/div[@class=&quot;select__placeholder css-1wa3eu0-placeholder&quot;]</value>
+      <webElementGuid>22b82edf-7bbf-4082-aff4-ba7ee19efc1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>74b930c1-684e-4a79-9b4d-dc7db706a584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>2883d50a-a85a-4af4-b68f-059e6a81f85c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>459e2585-4534-4da4-90c1-6c699ca0e734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>eaa75993-f057-458e-af82-67d5fe2a1ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f63d9c72-efae-4792-b2b1-af6daea455d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>a6929d45-58e7-431e-8346-53d2e418b3f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>7a38b658-24a5-42fd-98b8-4886b80730eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>73dee20f-9ab5-4e7b-823a-8b8bbbe27e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0c1cfb6-6be0-434a-9d2f-e4c3da2b21e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>64570089-ef3d-4d78-945a-6f43bbcfc247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>4cd0a408-173a-4d71-bad3-642aee44e91d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>2200267f-137d-4bb2-90f9-de132c0d06f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1c422fcc-2f35-4aec-802b-343108cd464f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>571f52e7-e2d4-472d-8c80-1ee6a8e70ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>d3065d66-f799-4a89-88e4-a8faa4c86c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>287fccc5-ca94-4c1b-97a5-8e7e781ad12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0ef9f423-c676-4740-a406-efab818f7a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>aecb7001-771a-42fa-b764-4a9199a29e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>073428bf-2505-4a07-b91d-eb3a94998cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>34e27738-3f21-4f21-b27f-cca92be7d89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>201c0234-aec0-49eb-99f2-6dcc642b4fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>bc8ef5cf-fed6-44d1-846e-f5145377a21a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>e16aa0c5-e6c3-4f65-9e98-d62d4efb3bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>c7c23ffa-d3a0-461b-9d92-09748a6f3354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1a72e98-d57b-4ef5-b42e-209c23c02f92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>44c66ab5-8325-4461-b87a-d8918f41859c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>6b2f3ccd-9b0f-4695-a8b8-6914ef6580d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>a5b69190-1ce3-4a14-ad82-0d2068a9aeda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c6ce263-d98c-4456-8fe1-e1c2ea3816d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>d18d44a7-453f-4a28-bd85-b78c055756fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>d072235c-6cf3-495f-8575-0ae6d9f89aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>2985a020-5e35-4b28-bbd1-813766f9aa16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>742e7ad5-6eb7-4530-a582-1f39fc5648c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>9a4937c6-56bd-494b-92e0-3e7a741b1ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>3fe3379b-1cdd-439c-96b2-715d13b99193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>0440cf89-a48b-4ab3-9392-43ef18da08da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ebbef6c0-fd78-482b-9a68-9df222201e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>50bb3866-462d-4c64-b87e-507e2ae1f245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>3ba2222a-64bf-4e67-994e-084b2e773bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>4507792f-0c58-4d46-b0df-304ec3b4914a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>99d39405-5935-4fb4-a588-cc3e6bad48a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select__value-container css-1hwfws3</value>
+      <webElementGuid>0f9c418b-5645-443d-bc97-fb1086594f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Modality</value>
+      <webElementGuid>f2988011-a44f-4f2b-9932-b99524b6d587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataModel&quot;)/div[@class=&quot;select__control select__control--is-focused select__control--menu-is-open css-dpzh99-control&quot;]/div[@class=&quot;select__value-container css-1hwfws3&quot;]</value>
+      <webElementGuid>9260d3af-d27b-413b-b166-7fc6f8622f9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dataModel']/div/div</value>
+      <webElementGuid>bf3737af-22e3-41cc-b9cb-15987eea1c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Modality'])[1]/following::div[3]</value>
+      <webElementGuid>29551d95-c9a7-40ea-a9dd-4b38b6ee4568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dataset Description'])[21]/following::div[5]</value>
+      <webElementGuid>b5fa5320-35da-4cfa-9559-667fc7631c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CT'])[2]/preceding::div[7]</value>
+      <webElementGuid>264237b2-8893-4caa-980b-f9f1b9ab9979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[3]/div/div/div/div</value>
+      <webElementGuid>47f3297c-4332-4df3-8877-e007e701b9d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Modality' or . = 'Select Modality')]</value>
+      <webElementGuid>01da6ab3-e54a-4bb6-b321-3ce4c3ad2415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dataModel']/div/div/div</value>
+      <webElementGuid>d3683c51-4871-4e0d-aa35-d6ac660a57bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Modality'])[1]/following::div[4]</value>
+      <webElementGuid>99f610e6-509b-40de-8840-55de564cafd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dataset Description'])[21]/following::div[6]</value>
+      <webElementGuid>7e0fbe0a-c260-4626-bb8a-586c34d4c1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CT'])[10]/preceding::div[6]</value>
+      <webElementGuid>f6823b28-54a8-4ca2-b1fd-084e137fad82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DX | CR | XC'])[2]/preceding::div[7]</value>
+      <webElementGuid>182964af-6640-4a12-8b29-19c81b6895cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Modality']/parent::*</value>
+      <webElementGuid>e5c8a7ba-9dd1-408a-95b7-2fefe1fb2619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[3]/div/div/div/div/div</value>
+      <webElementGuid>429c4606-d23c-4100-9c05-8465d769e56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CT'])[5]/preceding::div[7]</value>
+      <webElementGuid>cf18e3c5-48ef-4d42-9b60-1b9c73fbd735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CT'])[6]/preceding::div[7]</value>
+      <webElementGuid>3f61f1f6-6e8f-431c-9149-6b224b56c0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CT'])[4]/preceding::div[7]</value>
+      <webElementGuid>f3912712-8f13-47b4-bb53-133025acfb0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CT'])[3]/preceding::div[7]</value>
+      <webElementGuid>1f3c22bb-756e-41a1-b001-f6ad4075dd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CT'])[12]/preceding::div[7]</value>
+      <webElementGuid>cdc190cb-a111-4545-a9c8-3f7f94adb875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CT'])[1]/preceding::div[7]</value>
+      <webElementGuid>183ea8a0-2c1a-4dce-afa7-75832a07fca0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

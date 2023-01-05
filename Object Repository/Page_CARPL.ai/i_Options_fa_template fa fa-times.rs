@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Options_fa_template fa fa-times</name>
+   <tag></tag>
+   <elementGuidId>6defd3e9-f90a-4c53-8b35-a2c5828dbba5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[3]/div/div/div[3]/div[2]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ccf40282-431a-4ce8-ba43-52461ac12464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> fa_template fa fa-times</value>
+      <webElementGuid>46179fc8-88c3-4f51-b910-d7929ad7bc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;App&quot;]/div[@class=&quot;right-controlPanel full show&quot;]/div[1]/div[@class=&quot;jumbotron bg-template_items mx-auto mt-3&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;input-group mb-2&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn btn-danger&quot;]/i[@class=&quot;fa_template fa fa-times&quot;]</value>
+      <webElementGuid>25e30164-b883-45ff-ad20-9db19e356e27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[3]/div/div/div[3]/div[2]/div/button/i</value>
+      <webElementGuid>e8d38a0c-ddac-4969-8aa3-ee4d2a603260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/i</value>
+      <webElementGuid>29b8fff2-ec89-4d83-a779-a52cb8fae0d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

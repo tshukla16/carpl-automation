@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_A password reset link has been sent to yo_6fe7d8</name>
+   <tag></tag>
+   <elementGuidId>e8d9eb84-784a-48fa-a09c-94e76bf3cdd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='password-reset']/div[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-error > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d431d287-1140-4300-8fca-06bf4add2879</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A password reset link has been sent to your email.</value>
+      <webElementGuid>95a58200-4274-43d6-9ab9-49cd3a4b1ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password-reset&quot;)/div[@class=&quot;modal-error&quot;]/p[1]</value>
+      <webElementGuid>c4ca8ea5-d270-4116-b6aa-5bddea8d73fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='password-reset']/div[3]/p</value>
+      <webElementGuid>c4dd73b3-a174-4806-b913-fefd16f2ac59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESET PASSWORD'])[2]/following::p[1]</value>
+      <webElementGuid>1abcc52c-a52c-436a-b103-6d16ce392c6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESET PASSWORD'])[1]/following::p[2]</value>
+      <webElementGuid>fb757e9e-cebb-4c45-92f8-fb7c8ad44ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'password-reset', '&quot;', ')/div[@class=', '&quot;', 'modal-error', '&quot;', ']/p[1]')])[1]/preceding::p[1]</value>
+      <webElementGuid>6ebc8423-6073-4393-99a9-1a9f6f80513b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A password reset link has been sent to your email.']/parent::*</value>
+      <webElementGuid>a77ba673-4772-41f1-8493-d96814ab1897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>0b5e177a-2d60-49da-9834-7967c0f5d938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'A password reset link has been sent to your email.' or . = 'A password reset link has been sent to your email.')]</value>
+      <webElementGuid>ac324585-e1da-41b3-8a5d-b9513fea9fa8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

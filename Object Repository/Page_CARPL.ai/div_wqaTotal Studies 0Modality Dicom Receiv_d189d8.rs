@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_wqaTotal Studies 0Modality Dicom Receiv_d189d8</name>
+   <tag></tag>
+   <elementGuidId>63e347ce-f4ad-4551-98e5-f1b63c2ed54b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a8a7cfb-e850-42e4-bd2d-39d5c76fd213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12</value>
+      <webElementGuid>c932512c-dc3c-4a9b-94dc-3b65bb8b813b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> wqaTotal Studies: 0Modality: Dicom Receive    Dicom service not running Search Sort by || Asc  Select  Filter by Date Select   Upload Dataset Patient Name Patient ID Modality Study Description StudyInstanceUID Age Gender Study Date Update Time Upload Time Accession Number InstancesPatient NamePatient IDModalityAgeGenderUpdate TimeUpload TimeView StudyNo Records found!Show 255075100Entries&lt;1></value>
+      <webElementGuid>c17c2213-3ffc-4255-bbef-91f010f048a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[1]/div[@class=&quot;algopage02 circlearea&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]</value>
+      <webElementGuid>b36ef2f6-9e9d-4305-894a-5f44e03b15a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div</value>
+      <webElementGuid>d937b134-bc05-47c6-b9a0-ef8a8cd671a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version: v3.carpl.testing.db.0.527'])[1]/following::div[9]</value>
+      <webElementGuid>50bbcfb9-e5b8-44df-8c40-6a979d7ac66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div</value>
+      <webElementGuid>6449140a-5be7-4f28-b417-be9d759674fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' wqaTotal Studies: 0Modality: Dicom Receive    Dicom service not running Search Sort by || Asc  Select  Filter by Date Select   Upload Dataset Patient Name Patient ID Modality Study Description StudyInstanceUID Age Gender Study Date Update Time Upload Time Accession Number InstancesPatient NamePatient IDModalityAgeGenderUpdate TimeUpload TimeView StudyNo Records found!Show 255075100Entries&lt;1>' or . = ' wqaTotal Studies: 0Modality: Dicom Receive    Dicom service not running Search Sort by || Asc  Select  Filter by Date Select   Upload Dataset Patient Name Patient ID Modality Study Description StudyInstanceUID Age Gender Study Date Update Time Upload Time Accession Number InstancesPatient NamePatient IDModalityAgeGenderUpdate TimeUpload TimeView StudyNo Records found!Show 255075100Entries&lt;1>')]</value>
+      <webElementGuid>0abe425c-0e43-48ed-b0ff-fcc7110b2d90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

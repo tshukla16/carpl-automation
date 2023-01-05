@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Something went wrong</name>
+   <tag></tag>
+   <elementGuidId>5775b8f8-30e1-40f9-9e45-6cc9a5e2b333</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='password-reset']/div[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-error > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c819f53d-b3d1-4069-937f-487b96dfe329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Something went wrong!</value>
+      <webElementGuid>3a0cb9d7-e70b-40c6-a1c3-476ff905148a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password-reset&quot;)/div[@class=&quot;modal-error&quot;]/p[1]</value>
+      <webElementGuid>b9836653-bb2a-4353-8de4-5ff3e7700f47</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='password-reset']/div[3]/p</value>
+      <webElementGuid>843cd556-c8ed-471e-8f8f-624e31000331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESET PASSWORD'])[2]/following::p[1]</value>
+      <webElementGuid>879aecbd-4b11-4f4b-af3f-259fceb5ce4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RESET PASSWORD'])[1]/following::p[2]</value>
+      <webElementGuid>e82b153d-9dc1-4a3e-91d5-b505c3682dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'password-reset', '&quot;', ')/div[@class=', '&quot;', 'modal-error', '&quot;', ']/p[1]')])[1]/preceding::p[1]</value>
+      <webElementGuid>8454a949-c459-45de-9b3e-a7a48ad2eec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Something went wrong!']/parent::*</value>
+      <webElementGuid>fbb64979-517d-45ff-b011-276b7655aa5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p</value>
+      <webElementGuid>70ad98a2-c741-457a-a105-f3e157385d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Something went wrong!' or . = 'Something went wrong!')]</value>
+      <webElementGuid>aee74bea-730d-4871-923b-7be07431503b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

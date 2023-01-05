@@ -39,5 +39,5 @@ WebUI.comment('Then he should be able to login successfully')
 
 landingPage = WebUI.verifyElementPresent(findTestObject('Page_CuraAppointment/div_Appointment'), GlobalVariable.G_Timeout)
 
-WebUI.closeBrowser()
+WebUI.closeBrowser();
 

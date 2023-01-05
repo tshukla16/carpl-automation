@@ -4,6 +4,13 @@
    <name>div_Appointment</name>
    <tag></tag>
    <elementGuidId>c255d16b-6f69-4f80-9054-e354f56604e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'appointment']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -11,5 +18,30 @@
       <name>id</name>
       <type>Main</type>
       <value>appointment</value>
+      <webElementGuid>9a2fcac1-a4a2-4704-8e69-bac90e3b1981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>appointment</value>
+      <webElementGuid>73145cbc-2284-4b87-b882-7fc0111ab51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>appointment</value>
+      <webElementGuid>16bec5a5-1a03-45d3-b7ef-d797e115f862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>appointment</value>
+      <webElementGuid>5d079b6e-e35f-4262-945d-cd86089aa8bc</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

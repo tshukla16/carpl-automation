@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Studies_noun mammo</name>
+   <tag></tag>
+   <elementGuidId>2168de34-c162-4c9f-8357-7701a7728005</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div[2]/div/div/div/ul/li/div/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f8a1901-9e11-4220-aa21-463e471f4e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun mammo </value>
+      <webElementGuid>fa074994-8885-4327-8d87-3931c235527c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun mammo&quot;]</value>
+      <webElementGuid>c0a3ce76-b755-48f7-81ee-c8cfdd8093f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0dc72b03-13c7-4134-9170-8d744b51db1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun mammo </value>
+      <webElementGuid>e6948155-7259-4fd3-b676-b7fe707ddb8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun mammo&quot;]</value>
+      <webElementGuid>7457652a-ece8-4119-9dea-b2b56c9800e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>41f949a7-34ef-40c9-857b-51164b6f2d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noun mammo </value>
+      <webElementGuid>af1e35f2-81e7-43c1-bd1d-db6e676043c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;header bg-gradient-info pb-8 pt-3 pt-md-8&quot;]/div[@class=&quot;mt--7 container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;order-xl-2 col-xl-7&quot;]/div[@class=&quot;card-profile shadow dashboard_slider card&quot;]/div[@class=&quot;pt-0 pt-md-4 card-body&quot;]/div[@class=&quot;carousel-root&quot;]/div[@class=&quot;carousel carousel-slider&quot;]/div[@class=&quot;slider-wrapper axis-horizontal&quot;]/ul[@class=&quot;slider animated&quot;]/li[@class=&quot;slide selected previous&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;data_circles&quot;]/div[@class=&quot;noun mammo&quot;]</value>
+      <webElementGuid>326e89d0-5b6c-4403-833b-f7f93e5d3bf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/div[2]/div/div/div/ul/li/div/div/div[4]/div</value>
+      <webElementGuid>df89ba35-c4f5-4eae-8c8e-04288bed4c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>6739eda7-3785-46ca-a060-6976104d569b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

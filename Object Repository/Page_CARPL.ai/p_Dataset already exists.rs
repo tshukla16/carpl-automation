@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Dataset already exists</name>
+   <tag></tag>
+   <elementGuidId>f3562af7-c95c-47ee-aac6-27f77363d263</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-error > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='createDatasetForm']/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a584f592-88cf-4b65-8131-68578ad23106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dataset already exists.</value>
+      <webElementGuid>001d8bfd-e98b-4624-b963-c0f4eb6aab0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createDatasetForm&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;modal-error&quot;]/p[1]</value>
+      <webElementGuid>723defc9-fe85-4e11-b447-51e3185f4bae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='createDatasetForm']/div/div[2]/p</value>
+      <webElementGuid>166c97eb-7a71-4bb4-9945-f7125af0cb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Modality'])[1]/following::p[1]</value>
+      <webElementGuid>627c806f-9caa-4493-a729-e9bf526bc091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Modality'])[1]/following::p[1]</value>
+      <webElementGuid>820a340a-bd14-42a2-a6bc-62473f783275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Dataset'])[3]/preceding::p[1]</value>
+      <webElementGuid>2a30c363-b8ac-4f47-b9f7-7d42611b32f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dataset already exists.']/parent::*</value>
+      <webElementGuid>509a884e-dd22-4918-abcd-559009433e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>3bf491fc-b213-44e0-81e6-47ab8ad338a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Dataset already exists.' or . = 'Dataset already exists.')]</value>
+      <webElementGuid>e31b69ea-89bd-4b05-9dbe-31b29b24101e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_My Datasets_fa fa-lock</name>
+   <tag></tag>
+   <elementGuidId>4d5df5c6-c46b-40bc-894d-1c58556cf869</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='configurationUl']/li/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-lock</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a94d4b06-0bea-4986-b12f-eba2d90973a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-lock</value>
+      <webElementGuid>1417c0bc-eca1-4f40-acb2-733f07cb0ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;configurationUl&quot;)/li[1]/a[1]/i[@class=&quot;fa fa-lock&quot;]</value>
+      <webElementGuid>80d96ad3-ce95-4940-9304-ea4112837195</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='configurationUl']/li/a/i</value>
+      <webElementGuid>2a2cddd7-8744-4e81-a76d-de963f41746c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/a/i</value>
+      <webElementGuid>a881eff9-efcf-47b7-86c1-b66af527b975</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -4,6 +4,13 @@
    <name>btn_MakeAppointment</name>
    <tag></tag>
    <elementGuidId>36ab10ef-42ea-4957-9e53-f8e9886ae996</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'btn-make-appointment']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -11,5 +18,30 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-make-appointment</value>
+      <webElementGuid>0e02ae22-16bc-4536-827c-037c72b24a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-make-appointment</value>
+      <webElementGuid>688cb5e3-f8ba-482e-82c2-ca8290fe8fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-make-appointment</value>
+      <webElementGuid>5693243c-735f-4117-b8eb-328d24bfc812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-make-appointment</value>
+      <webElementGuid>18b4656c-0305-4dba-905f-92b22c72928c</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
