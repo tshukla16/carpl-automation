@@ -57,16 +57,16 @@ WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/span_Unassigned_carp
 //
 WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_AssginAnnotation'))
 WebUI.waitForPageLoad(60)
-//WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_AssignAnnotator_email'), 'sudo@carpl.ai')
+WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_AssignAnnotator_email'), 'anupam.sachan@carpl.ai')
 WebUI.waitForPageLoad(60)
 //
-//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_Addannotatorbutton'))
+WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_Addannotatorbutton'))
 //
 //
-//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/AssginAnnotatorbutton'))
+WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/AssginAnnotatorbutton'))
 
 
-//WebUI.refresh()
+WebUI.refresh()
 
 
 

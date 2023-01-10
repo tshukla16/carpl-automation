@@ -6,12 +6,12 @@
    <elementGuidId>3b059cc9-70f7-45b9-a923-d3acad31f07a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//ul[@id='analysisUl']/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bf0b41cf-a1b5-4172-bb8d-a06fcec18e1f</webElementGuid>
+      <webElementGuid>97fe1b32-161d-44eb-b886-bf067c3e6b67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,74 @@
       <name>href</name>
       <type>Main</type>
       <value>/annotations</value>
-      <webElementGuid>f6440ad0-6165-4d7b-8bc2-e4095a3b8f89</webElementGuid>
+      <webElementGuid>a17413af-a884-48ab-8c31-9450d7861cc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Annotation Project</value>
+      <webElementGuid>fe67a039-236e-467f-9239-dc9ce22bc4e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;analysisUl&quot;)/li[2]/a[1]</value>
+      <webElementGuid>9af8fe7b-4fd0-4f7a-92c1-2e560581394e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7cf87ea7-7fe8-4120-85df-4811ef25ec0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/annotations</value>
+      <webElementGuid>2539ec33-cdc6-4b25-8820-3e9bf4be0ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Annotation Project</value>
+      <webElementGuid>08b917f2-ffa9-483e-83aa-23de70ccbbe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;analysisUl&quot;)/li[2]/a[1]</value>
+      <webElementGuid>c540f8ba-c30f-4a83-af57-4a072773ba8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bf0b41cf-a1b5-4172-bb8d-a06fcec18e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/annotations</value>
+      <webElementGuid>f6440ad0-6165-4d7b-8bc2-e4095a3b8f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='analysisUl']/li[2]/a</value>
-      <webElementGuid>dac4229f-14fe-4d11-9dce-afce7a4bb19c</webElementGuid>
+      <webElementGuid>f76ee21f-8ead-44c9-96f4-b6ca496dca90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +126,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Annotation Project')]</value>
-      <webElementGuid>51c34c23-6206-4caf-b051-83a892677148</webElementGuid>
+      <webElementGuid>1e88c284-9a0e-4c09-aebd-629a4eec6657</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Annotation Template'])[1]/following::a[1]</value>
-      <webElementGuid>43dfb8d7-1842-4d4a-ae29-1ecac15b2975</webElementGuid>
+      <webElementGuid>f9f8500c-b0bb-4e42-aca1-b1302af205ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Annotation'])[1]/following::a[2]</value>
-      <webElementGuid>a4cb46e7-d347-462d-adff-542696a8cbe6</webElementGuid>
+      <webElementGuid>eebcd37c-ae07-48e9-a058-d53597dc11f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Track Annotation'])[1]/preceding::a[1]</value>
-      <webElementGuid>2d947043-e1c8-4ce6-9ddb-c6611e776025</webElementGuid>
+      <webElementGuid>c8bcc95f-206b-4833-ba24-d833c645392a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Training'])[1]/preceding::a[2]</value>
-      <webElementGuid>becb177d-bd01-4fef-874b-b2f015bf4177</webElementGuid>
+      <webElementGuid>d40d5536-e8d4-4356-843a-478d131c1053</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Annotation Project']/parent::*</value>
-      <webElementGuid>67af4293-652a-459f-8b9d-40126e0d0357</webElementGuid>
+      <webElementGuid>d3301f8e-7432-465c-bb39-876f2de9d04c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +174,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/annotations')]</value>
-      <webElementGuid>f5223af6-971d-42cb-9fc3-d9feb82255c8</webElementGuid>
+      <webElementGuid>31baeaf9-92c7-453e-9352-ad5e651efab2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/ul/li[2]/a</value>
-      <webElementGuid>690ca239-5890-42d7-bdeb-9cc83aa41011</webElementGuid>
+      <webElementGuid>29bea935-8559-4b23-8373-15f5fc60eb79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +190,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/annotations' and (text() = 'Annotation Project' or . = 'Annotation Project')]</value>
-      <webElementGuid>7781bdbd-6059-4041-9ce7-660462b592c0</webElementGuid>
+      <webElementGuid>2a6cb4f3-1c69-4dae-b579-e08f135ce230</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

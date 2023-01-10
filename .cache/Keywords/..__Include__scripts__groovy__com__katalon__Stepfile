@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "BF9A2AC6F4814DC0E4AC414AFC284FEB",
+  "keywordFileContentHash": "8B77B99647D316385C8E99A93C818BC7",
   "keywordClasses": [
     {
       "name": "com.katalon.Stepfile",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

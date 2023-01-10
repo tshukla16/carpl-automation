@@ -3488,12 +3488,12 @@ class Stepfile {
 	@Then("Empty list will be appear in annotation template")
 	def Empty_list_will_be_appear_in_annotation_template(){
 	}
-	
-	
+
+
 	@When("Check User Can Use The Range Element")
 	def Check_User_Can_Use_The_Range_Element () {
-		
-		
+
+
 		WebUI.openBrowser('')
 		WebUI.navigateToUrl('https://dev.carpl.ai/')
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
@@ -3515,127 +3515,723 @@ class Stepfile {
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Done'))
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input__formname'), 'fracture')
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Save Template'))
-		
 	}
-	
-	
+
+
 	@Then("User can edit Range Element under Annotation Template page")
-	
+
 	def User_can_edit_Range_Element_under_Annotation_Template_page () {
-		
 	}
-	
+
 	@When("Check The Maximum Range A User Can Set")
 	def Check_The_Maximum_Range_A_User_Can_Set () {
-		
-		
+
+
 		WebUI.openBrowser('')
 		WebUI.navigateToUrl('https://dev.carpl.ai/')
-		
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
-		
+
 		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'GbQ7aaLRPnzYPozY5hlVuQ==')
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Template'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Template'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Rangetextboxes'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/i_Dropdown_fa fa-edit mr-3 fa_template'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Placeholder Label_public-DraftStyleDefa_c857fa'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Placeholder Label_public-DraftStyleDefa_c857fa'))
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Placeholder Label_public-DraftStyleDefa_c857fa'))
-		
-		
+
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/div_dhfah'),'demo')
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Requierd_buttonRadioButton'))
-		
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/MinRangeoption'),'1')
-		
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/MaxRangeoption'),'50')
-		
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/StepsRangeoption'),'10000')
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Done'))
-		
-		
+
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input__formname'), 'hand fracture')
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Save Template'))
-		
 	}
-	
-	
+
+
 	@Then("Maximum range should added in Label page")
-	
+
 	def Maximum_range_should_added_in_Label_page () {
-		
 	}
-	
+
 	@When("Check The Minimum Number Of Step A User Can Set")
-	
+
 	def Check_The_Minimum_Number_Of_Step_A_User_Can_Set () {
-		
+
 		WebUI.openBrowser('')
 		WebUI.navigateToUrl('https://dev.carpl.ai/')
-		
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
-		
+
 		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'GbQ7aaLRPnzYPozY5hlVuQ==')
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Template'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Template'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Rangetextboxes'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/i_Dropdown_fa fa-edit mr-3 fa_template'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Placeholder Label_public-DraftStyleDefa_c857fa'))
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Placeholder Label_public-DraftStyleDefa_c857fa'))
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Placeholder Label_public-DraftStyleDefa_c857fa'))
-		
-		
+
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/div_dhfah'),'demo')
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Requierd_buttonRadioButton'))
-		
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/MinRangeoption'),'1')
-		
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/MaxRangeoption'),'50')
-		
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/StepsRangeoption'),'0')
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Done'))
-		
-		
+
+
 		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input__formname'), 'Leg fracture')
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Save Template'))
-			
 	}
-	
+
 	@Then("Minimum number of step in range Editor")
-	
-	def Minimum_number_of_step_in_range_Editor () { 
-		
-		
+
+	def Minimum_number_of_step_in_range_Editor () {
 	}
-	
-	
-	
+
+	@When("Verify the self Assgin annotation template in viewer")
+	def Verify_the_self_Assgin_annotation_template_in_viewer () {
+
+		WebUI.openBrowser('')
+
+		WebUI.navigateToUrl('https://dev.carpl.ai/')
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'GbQ7aaLRPnzYPozY5hlVuQ==')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Project'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Project Name_form-control'), 'deomr')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_china  sudocarpl.ai'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/ButtonNextAnotationpage'))
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/dropdownvalue_annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_2k XRAYS  sudocarpl.ai'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_nextAnnotationpage'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_CreateAnnotationProjects1'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/span_Unassigned_carpl_checkbox'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_AssginAnnotation'))
+		WebUI.waitForPageLoad(60)
+
+
+		WebUI.openBrowser('')
+
+		WebUI.navigateToUrl('https://dev.carpl.ai/')
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'GbQ7aaLRPnzYPozY5hlVuQ==')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Project'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_Annotate_button'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/AnnotateStudy'))
+	}
+
+	@Then("Viewer should appear with all options")
+	def Viewer_should_appear_with_all_options () {
+	}
+
+	@When("Verify the user Assgin annotation template to different user")
+
+	def Verify_the_user_Assgin_annotation_template_to_different_user () {
+
+
+
+		WebUI.openBrowser('')
+
+		WebUI.navigateToUrl('https://dev.carpl.ai/')
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'GbQ7aaLRPnzYPozY5hlVuQ==')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Project'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Project Name_form-control'), 'rest')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_fabes  sudocarpl.ai'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/ButtonNextAnotationpage'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Next'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/dropdownvalue_annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_fuzzy  sudocarpl.ai'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Next'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_nextAnnotationpage'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_CreateAnnotationProjects1'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/span_Unassigned_carpl_checkbox'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_AssginAnnotation'))
+
+		WebUI.waitForPageLoad(60)
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Notificationcancel'))
+		WebUI.waitForPageLoad(60)
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/i_t34868406-9841-41bc-aa1d-5f1dd358853b    _9b6f6a'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_AssignAnnotator_email'), 'anupam.sachan@carpl.ai')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Add Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Assign Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Notificationcancel'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/img_Assign Annotation_img-fluid rounded-cir_b74cff'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Logout'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'anupam.sachan@carpl.ai')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'PLGTm/4mhzCFv1nCPynrvg==')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Annotate'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Annotate Study'))
+
+		WebUI.switchToWindowTitle('CARPL Viewer')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/div_Angle Double Down'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Input_radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+
+	}
+
+
+	@Then("viewer should appear with all options with different user")
+
+	def viewer_should_appear_with_all_options_with_different_user () {
+	}
+
+
+
+	@When("Verify the user assgin the template to different user")
+	def Verify_the_user_assgin_the_template_to_different_user () {
+
+
+		WebUI.openBrowser('')
+
+		WebUI.navigateToUrl('https://dev.carpl.ai/')
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'GbQ7aaLRPnzYPozY5hlVuQ==')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Project'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Project Name_form-control'), 'repat')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_fabes  sudocarpl.ai'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/ButtonNextAnotationpage'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Next'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/dropdownvalue_annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_fuzzy  sudocarpl.ai'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Next'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_nextAnnotationpage'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_CreateAnnotationProjects1'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/span_Unassigned_carpl_checkbox'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_AssginAnnotation'))
+		WebUI.waitForPageLoad(60)
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/i_t34868406-9841-41bc-aa1d-5f1dd358853b    _9b6f6a'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_AssignAnnotator_email'), 'anupam.sachan@carpl.ai')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Add Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Assign Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/img_Assign Annotation_img-fluid rounded-cir_b74cff'))
+
+		WebUI.refresh()
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/span_Unassigned_carpl_checkbox'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_AssginAnnotation'))
+		WebUI.waitForPageLoad(60)
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/i_t34868406-9841-41bc-aa1d-5f1dd358853b    _9b6f6a'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_AssignAnnotator_email'), 'tanay.shukla@carpl.ai')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Add Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Assign Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/img_Assign Annotation_img-fluid rounded-cir_b74cff'))
+
+
+	}
+
+
+	@Then("different user assgin the templates in annotation page")
+	def different_user_assgin_the_templates_in_annotation_page () {
+	}
+
+
+	@When("user create template in annotaion template page")
+
+	def  user_create_template_in_annotaion_template_page () {
+
+
+		WebUI.openBrowser('')
+
+		WebUI.navigateToUrl('https://dev.carpl.ai/')
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'GbQ7aaLRPnzYPozY5hlVuQ==')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Template'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Template'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Radiobutton_Annotationpage'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input__formname'), 'USA')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Save Template'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Project'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Project Name_form-control'), 'testdemo')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_fabes  sudocarpl.ai'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/ButtonNextAnotationpage'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Next'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/dropdownvalue_annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_fuzzy  sudocarpl.ai'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Next'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_nextAnnotationpage'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_CreateAnnotationProjects1'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/span_Unassigned_carpl_checkbox'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_AssginAnnotation'))
+		WebUI.waitForPageLoad(60)
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/i_t34868406-9841-41bc-aa1d-5f1dd358853b    _9b6f6a'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_AssignAnnotator_email'), 'anupam.sachan@carpl.ai')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Add Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Assign Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Notificationcancel'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/img_Assign Annotation_img-fluid rounded-cir_b74cff'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Logout'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'anupam.sachan@carpl.ai')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'PLGTm/4mhzCFv1nCPynrvg==')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Annotate'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Annotate Study'))
+
+		WebUI.switchToWindowTitle('CARPL Viewer')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/div_Angle Double Down'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Yes_Radiobutton'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Save and Mark Complete'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL Viewer/button_Yes'))
+
+
+
+	}
+
+	@Then("user should able to see viewer with that options")
+	def user_should_able_to_see_viewer_with_that_options () {
+	}
+
+	@When("user can select the multplie user in assgin annotation page")
+	def  user_can_select_the_multplie_user_in_assgin_annotation_page () {
+
+		WebUI.openBrowser('')
+
+		WebUI.navigateToUrl('https://dev.carpl.ai/')
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_email'), 'sudo@carpl.ai')
+
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_CARPL.ai/input_Login in to_password'), 'GbQ7aaLRPnzYPozY5hlVuQ==')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_LOG IN'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Template'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Template'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Radiobutton_Annotationpage'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input__formname'), 'china')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Save Template'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/a_Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Project'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_Project Name_form-control'), 'russia')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_fabes  sudocarpl.ai'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/ButtonNextAnotationpage'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Next'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_Select'))
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/dropdownvalue_annotation'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/div_fuzzy  sudocarpl.ai'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Next'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_nextAnnotationpage'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Button_CreateAnnotationProjects1'))
+
+		//WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Create Annotation Project'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/span_Unassigned_carpl_checkbox'))
+
+
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_AssginAnnotation'))
+		WebUI.waitForPageLoad(60)
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/i_t34868406-9841-41bc-aa1d-5f1dd358853b    _9b6f6a'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_AssignAnnotator_email'), 'anupam.sachan@carpl.ai')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Add Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Assign Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/img_Assign Annotation_img-fluid rounded-cir_b74cff'))
+
+		WebUI.refresh()
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/span_Unassigned_carpl_checkbox'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/Click_AssginAnnotation'))
+		WebUI.waitForPageLoad(60)
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/i_t34868406-9841-41bc-aa1d-5f1dd358853b    _9b6f6a'))
+
+		WebUI.setText(findTestObject('Object Repository/Page_CARPL.ai/input_AssignAnnotator_email'), 'tanay.shukla@carpl.ai')
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Add Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/button_Assign Annotator'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/img_Assign Annotation_img-fluid rounded-cir_b74cff'))
+
+		WebUI.click(findTestObject('Object Repository/Page_CARPL.ai/selectuser_dropdown'))
+
+
+
+	}
+
+	@Then("multiple users email drop down list should appear in assgin annotation page")
+
+	def multiple_users_email_drop_down_list_should_appear_in_assgin_annotation_page () {
+	}
 }
-
-
-

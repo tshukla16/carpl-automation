@@ -6,11 +6,12 @@
    <elementGuidId>955df745-cc2c-4fe2-a0b7-905a308e5154</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[16]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[1]/div/div/div/div[3]/div[2]/button[2]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,10 +22,90 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>430a8b86-341e-4014-9f27-d05755d052c6</webElementGuid>
+      <webElementGuid>e56cd1bd-c1b1-4f13-8cec-554d3e165483</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2fc46eaa-6209-4716-8d0d-863fdfe54e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-1 shadow</value>
+      <webElementGuid>2d8280ad-bd3f-4774-9cba-7383989ce405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Annotation Project</value>
+      <webElementGuid>9d4193a2-9ede-4379-9b2c-13c4c131fe70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;right-controlPanel full show&quot;]/div[2]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]</value>
+      <webElementGuid>0b7df2e8-c7dd-4ed1-a2da-4075dc7d5927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cdcaaea2-75a3-444a-bfee-dac7f7a79b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>04c33ed3-04d5-437d-b62b-4a909d6237a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-1 shadow</value>
+      <webElementGuid>6ea587ea-8829-4c54-8579-c7dc2c207400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Annotation Project</value>
+      <webElementGuid>a71ae4e4-d57f-4c8f-a227-87b8a0c75574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;right-controlPanel full show&quot;]/div[2]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]</value>
+      <webElementGuid>6b615c61-e80b-4948-9e27-8faeedfd6256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>430a8b86-341e-4014-9f27-d05755d052c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -40,7 +121,7 @@
       <webElementGuid>aea242ef-39f9-47f9-838a-3672eee66d26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -60,8 +141,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[10]</value>
-      <webElementGuid>94b9b139-cf58-4548-a99a-a40aff0cc971</webElementGuid>
+      <value>(//button[@type='button'])[16]</value>
+      <webElementGuid>0db58d66-a350-4247-90d1-30b9dcbb4aef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +150,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[3]/div[2]/button[2]</value>
-      <webElementGuid>67d68d28-5304-40c8-b2bf-c4ffb529202e</webElementGuid>
+      <webElementGuid>efe5b9e6-7250-4d51-b7cd-0f099cdd3271</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
-      <webElementGuid>b407ab11-2a5f-4c11-a82d-5686aaeffb45</webElementGuid>
+      <webElementGuid>e93160b2-7789-4a28-80bb-4337739fa994</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[2]</value>
-      <webElementGuid>1de1c96d-4f67-4ac7-9bf9-a943862c4204</webElementGuid>
+      <webElementGuid>bc5ad471-5aff-4aa9-a181-ce330cea25bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Create Annotation Project']/parent::*</value>
-      <webElementGuid>04b64c32-ef48-4e4d-bdf5-ec29c675f764</webElementGuid>
+      <webElementGuid>787c3678-15b6-4994-81fe-3d66037250b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button[2]</value>
-      <webElementGuid>f6bfab01-2536-4a12-9703-9839872a7bc2</webElementGuid>
+      <webElementGuid>e55666b8-d6f2-4791-81f0-1df6b2a22540</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +190,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Create Annotation Project' or . = 'Create Annotation Project')]</value>
-      <webElementGuid>9634c92c-7dc3-46cf-a674-ee0a0b9e82ff</webElementGuid>
+      <webElementGuid>93928065-879d-4a04-966b-bf6872e8b937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[10]</value>
+      <webElementGuid>94b9b139-cf58-4548-a99a-a40aff0cc971</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

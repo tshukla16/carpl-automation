@@ -6,12 +6,12 @@
    <elementGuidId>4f3883e3-9fd8-412b-a509-33f87eb0be13</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#analysis > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//li[@id='analysis']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#analysis > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e5c33d68-bd2b-436d-b3ea-3144ecdf5d98</webElementGuid>
+      <webElementGuid>b4c56f68-50fd-4fa0-998f-d427254d4293</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,74 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>9b14c9c1-f8b8-4103-8ec0-752a90bb0fd8</webElementGuid>
+      <webElementGuid>545b2992-1432-47fc-bd45-8d533d450d6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Annotation</value>
+      <webElementGuid>502aab2a-8869-48b8-a799-d7199d610902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style-3&quot;)/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@id=&quot;analysis&quot;]/a[1]</value>
+      <webElementGuid>d4cd4933-d967-4b27-adf6-eeeee057b399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f357371-58aa-4fd0-b43d-775793e2c63e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a9eed6f2-4379-4643-836c-d9385ea429e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Annotation</value>
+      <webElementGuid>57ce62c6-9d6a-4534-848e-4f5c92b13a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;style-3&quot;)/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@id=&quot;analysis&quot;]/a[1]</value>
+      <webElementGuid>5c3d1d76-1c5e-4462-85fe-4a67817a8f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5c33d68-bd2b-436d-b3ea-3144ecdf5d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9b14c9c1-f8b8-4103-8ec0-752a90bb0fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -662,7 +726,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='analysis']/a</value>
-      <webElementGuid>09f97a01-1c5a-46f4-af76-5f49599735f4</webElementGuid>
+      <webElementGuid>953f4bfe-7762-403d-b10e-11cf4b30b0b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -670,7 +734,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dataset Manager'])[1]/following::a[1]</value>
-      <webElementGuid>bbddfab0-8133-4191-8640-10cac1a19b6a</webElementGuid>
+      <webElementGuid>1f6f2f8d-f568-4b6b-bf35-f967c1f8f93b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -678,7 +742,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WorkFlow'])[1]/following::a[2]</value>
-      <webElementGuid>13259091-80f5-4a3f-b96b-a47066ff48f5</webElementGuid>
+      <webElementGuid>beca7809-a93a-4ea4-948e-02e55b22bc31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -686,7 +750,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Training'])[1]/preceding::a[1]</value>
-      <webElementGuid>fea1bbd7-aa0b-40cf-94c9-7bba40189b0d</webElementGuid>
+      <webElementGuid>066a8f10-27cd-44de-9f1e-1f98b797bfc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -694,7 +758,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>628c67de-65e5-4021-8cca-983f2f1ccb98</webElementGuid>
+      <webElementGuid>62361d44-3c66-4038-ba01-f5f7ddde74cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -702,7 +766,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a</value>
-      <webElementGuid>02327e68-56d5-40d2-95b8-7ab6a326666c</webElementGuid>
+      <webElementGuid>9219a292-82df-4661-9238-8d4cddaeb520</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -710,7 +774,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and (text() = ' Annotation' or . = ' Annotation')]</value>
-      <webElementGuid>0861d88b-ee14-4aec-8429-011c10b36443</webElementGuid>
+      <webElementGuid>da64d9e7-21a2-41d6-8d66-40aa27b533c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

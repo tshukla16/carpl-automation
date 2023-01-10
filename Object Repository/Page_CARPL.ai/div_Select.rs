@@ -6,16 +6,80 @@
    <elementGuidId>c616eb57-a42c-4222-a95b-71429b769d03</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='Select-Template']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40fe3604-b23d-49ac-b99e-08b6bdc396cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1hwfws3</value>
+      <webElementGuid>1ab66707-70c3-48d3-bbd1-b232384e7846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select </value>
+      <webElementGuid>63f04e77-defa-42a9-aa7e-a3684eb75a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Select-Template&quot;)/div[@class=&quot;css-71ak3d-control&quot;]/div[@class=&quot;css-1hwfws3&quot;]</value>
+      <webElementGuid>c39a464f-9b7a-4de1-b73e-9433588a63ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>567d3075-c077-443b-ac23-06d82c93aeeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1hwfws3</value>
+      <webElementGuid>25ada6b2-898b-40c2-bd4f-6d79adc1399d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select </value>
+      <webElementGuid>00e53caf-4df3-491e-9c44-0288bebe5c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Select-Template&quot;)/div[@class=&quot;css-71ak3d-control&quot;]/div[@class=&quot;css-1hwfws3&quot;]</value>
+      <webElementGuid>9ebdefe3-7632-4926-89a2-04b58735af70</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +97,7 @@
       <webElementGuid>1edd3e3e-1bf6-4e18-ad14-4be8faa6416b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -206,7 +270,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Select-Template']/div/div</value>
-      <webElementGuid>dc3a2fb1-33b8-4c1d-bffb-02eb0db641d0</webElementGuid>
+      <webElementGuid>183e8572-b930-41f5-a810-e835cd5fd728</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,7 +278,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Annotation Template*'])[1]/following::div[3]</value>
-      <webElementGuid>4fa30905-a70a-4b0f-9d12-786de31a21d2</webElementGuid>
+      <webElementGuid>87efe618-be32-4d00-a843-fb0f8ad7861b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +286,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Description'])[21]/following::div[5]</value>
-      <webElementGuid>725e8669-93ad-46ca-bde8-d8dbe53732ec</webElementGuid>
+      <webElementGuid>ddea0b8e-792a-422b-ab2b-ebd1b529248d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mnist temp : sudo@carpl.ai'])[1]/preceding::div[7]</value>
+      <webElementGuid>be59302b-af68-49e6-92f1-03b2689250ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[4]/div/div/div/div</value>
+      <webElementGuid>1ca28b32-9947-4110-8955-fbedd81d5b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select ' or . = 'Select ')]</value>
+      <webElementGuid>6c575010-dcd4-4cbe-83c0-6f6d7e8c0278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -231,22 +319,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='flipkart : sudo@carpl.ai'])[1]/preceding::div[7]</value>
       <webElementGuid>e6f928d8-ce65-446d-8a3d-45e0594860b2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/div[4]/div/div/div/div</value>
-      <webElementGuid>f2116963-ee0f-4f5d-b667-6da50342173f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'Select ' or . = 'Select ')]</value>
-      <webElementGuid>9ebc64bf-3e08-4521-9707-ebc4dd381277</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

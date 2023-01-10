@@ -6,12 +6,12 @@
    <elementGuidId>5a4643bd-daf8-46af-8495-1e7f3b3d253f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-primary.mr-1.shadow</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.mr-1.shadow</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,90 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4bad7a7b-441b-46c2-800e-ef64d268bee0</webElementGuid>
+      <webElementGuid>70a928d9-ffad-475b-8a63-285fee7875d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cb0eaace-f568-4621-9b37-e4132b851aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-1 shadow</value>
+      <webElementGuid>cc58e60f-c0d9-4b8b-b201-2cea99017bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Project </value>
+      <webElementGuid>d89c8cdb-6599-41f3-894d-1093bdff3578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-8&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]</value>
+      <webElementGuid>1eefcd88-5cc8-49f5-8cca-91f5687fb262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9476cf1b-ce00-4e2d-ad1c-4378d1a0f756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15cf3ddd-a3df-4faa-a4ab-c7757d39cb41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary mr-1 shadow</value>
+      <webElementGuid>63df2298-0167-4f86-b82d-3796dab02d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Project </value>
+      <webElementGuid>08c59622-88cc-4ebe-ba0d-381c1bcd5eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;wrapper appSection&quot;]/div[@class=&quot;content-wrapper&quot;]/div[1]/div[@class=&quot;projectselct&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-8&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn btn-primary mr-1 shadow&quot;]</value>
+      <webElementGuid>5767658f-0ccd-4df5-8c57-48b493613faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4bad7a7b-441b-46c2-800e-ef64d268bee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +121,7 @@
       <webElementGuid>509afeb4-ab55-42b9-8930-1731dd7958ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -870,7 +950,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>cd657c4b-09c6-4d39-a2a9-ae4bddcde61d</webElementGuid>
+      <webElementGuid>7fec0654-c054-4c32-8582-e69fbbda1a0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -878,7 +958,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div/div/div[3]/div/button</value>
-      <webElementGuid>d356c0a0-117c-4d4e-8813-a55fd2d1d0d2</webElementGuid>
+      <webElementGuid>30204ae8-7f53-4ad9-91d6-b5c7560a4da5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -886,7 +966,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/following::button[1]</value>
-      <webElementGuid>0a7daa5b-126d-414f-ba49-5d334a47ddfd</webElementGuid>
+      <webElementGuid>ff828bff-45c8-47bc-a4e5-cb84d226c198</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -894,7 +974,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View Template'])[1]/preceding::button[1]</value>
-      <webElementGuid>a2d9b74b-3272-435f-ba09-1d62bb6047e6</webElementGuid>
+      <webElementGuid>d64aabbd-fcb8-432f-8652-6bf22a2e2774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -902,7 +982,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>10d6c720-b58c-41dd-9cff-949b8e228fa5</webElementGuid>
+      <webElementGuid>e487dbc4-b5c6-4124-a976-834ee36d5805</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -910,7 +990,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Create Project ' or . = 'Create Project ')]</value>
-      <webElementGuid>36f6d3b7-cf71-4fea-9986-edfa44ac6e18</webElementGuid>
+      <webElementGuid>73d7847b-9b1a-423a-9d2a-fac905b84015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
