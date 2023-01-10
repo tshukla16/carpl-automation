@@ -15,8 +15,8 @@ Feature: Verify the Annotation Projects
    Then user should able to see viewer with that options
    When user can select the multplie user in assgin annotation page 
    Then multiple users email drop down list should appear in assgin annotation page 
-   When Remove all case from annotation project pages 
-   Then All case should not appear in annotation project pages
+   When Remove all case from annotation project pages
+   Then All case should not appear in annotation projects pages
    
    
    
